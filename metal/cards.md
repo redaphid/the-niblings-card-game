@@ -2,28 +2,34 @@
 
 ## Creatures
 
-### Steel Golem
+### Iron Soldier
 
 - **Type**: Creature
 - **Mana Cost**: 2 Metal
 - **Attack/Defense**: 1/3
 - **Ability**: While Steel Golem is in play, damage to your deck is reduced by 1 (to a minimum of 1).
 
-### Copper Automaton
+### Titanium Bunny
+
+- **Type**: Creature
+- **Mana Cost**: 2 Metal
+- **Attack/Defense**: 1/1
+- **Ability**: When Titanium Bunny is defeated, you may draw a card.
+
+### Imp Imposter
 
 - **Type**: Creature
 - **Mana Cost**: 1 Metal
-- **Attack/Defense**: 1/1
-- **Ability**: When Copper Automaton is defeated, you may draw a card.
+- **Attack/Defense**: 1/2
 
-### Gearsmith
+### Imp Mechanic
 
 - **Type**: Creature
 - **Mana Cost**: 3 Metal
 - **Attack/Defense**: 2/3
-- **Ability**: When Gearsmith enters the battlefield, search your deck for an Equipment card, reveal it, and put it into your hand. Then shuffle your deck.
+- **Ability**: When Imp Mechanic enters the battlefield, search your deck for an Equipment card, reveal it, and put it into your hand. Then shuffle your deck.
 
-### Titanium Colossus
+### Copper Colossus
 
 - **Type**: Creature
 - **Mana Cost**: 5 Metal
@@ -37,6 +43,12 @@
 - **Type**: Equipment
 - **Mana Cost**: 1 Metal
 - **Effect**: Equipped creature gains +0 Attack and +2 Defense.
+
+### Mechanical Wings
+
+- **Type**: Equipment
+- **Mana Cost**: 2 Metal
+- **Effect**: Equipped creature gains +1/+0 and can only be blocked by creatures with Flying or Reach.
 
 ### Mechanical Arm
 
@@ -52,11 +64,6 @@
 - **Mana Cost**: 2 Metal
 - **Effect**: Shuffle up to 2 cards from your discard pile into your deck.
 
-### Mechanical Upgrade
-
-- **Type**: Spell
-- **Mana Cost**: 1 Metal
-- **Effect**: Put a +1/+1 counter on target creature.
 
 ### Magnetic Shield
 
