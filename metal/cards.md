@@ -1,5 +1,19 @@
 # Metal Suit Cards
 
+## **2\. Metal Suit**
+
+### **Theme and Mechanics**
+
+- **Theme**: Machinery, constructs, and mechanical prowess.
+- **Playstyle**:
+  - **Strong Defense**: High-defense creatures that protect your deck.
+  - **Equipment Synergy**: Enhance creatures with stackable equipment.
+  - **Damage Reduction**: Abilities that reduce incoming damage.
+- **Mechanics**:
+  - **Construct Creatures**: Durable and often provide protective benefits.
+  - **Reinforcement Spells**: Heal your deck by shuffling cards back into it.
+  - **Upgrades**: Incremental improvements to creatures over time.
+
 ## Creatures
 
 ### Iron Soldier
@@ -63,7 +77,6 @@
 - **Type**: Spell
 - **Mana Cost**: 2 Metal
 - **Effect**: Shuffle up to 2 cards from your discard pile into your deck.
-
 
 ### Magnetic Shield
 
